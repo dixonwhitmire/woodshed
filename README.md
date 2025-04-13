@@ -1,0 +1,2 @@
+# woodshed
+Guitar exercise generator
